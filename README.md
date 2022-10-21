@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h3>이름: 이건희</h3>
 <p>가나다라</p>
+
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -12,6 +13,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegunhee777)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+<ul>
+  <li>Study</li>
+  <li>Sample</li>
+</ul>
 
 <!--
 **Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
