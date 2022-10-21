@@ -11,13 +11,21 @@
 </div> 
 <br/>
 
+<br/>
+<h4>프로젝트 개요</h4>
+<ul>
+    <li>Study</li>
+    <li>Sample:
+        <ul>
+            <a href="naver.com"><li>샘플 1</li></a>
+            <li>샘플 2</li>
+        </ul>
+    </li>
+</ul>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegunhee777)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<ul>
-  <li>Study</li>
-  <li>Sample</li>
-</ul>
+
 
 <!--
 **Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
