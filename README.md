@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1>이름: 이건희</h1>
+<p>가나다라</p>
 
 <!--
 **Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
