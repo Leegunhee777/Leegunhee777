@@ -17,7 +17,7 @@
     <li>Study</li>
     <li>Sample:
         <ul>
-            <a href="naver.com"><li>샘플 1</li></a>
+            <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
             <li>샘플 2</li>
         </ul>
     </li>
