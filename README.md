@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>이름: 이건희</h1>
+<h3>이름: 이건희</h3>
 <p>가나다라</p>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
