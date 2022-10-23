@@ -34,7 +34,8 @@
          <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>  
         </ul>
     </li>
-    <li><h5>Study:</h5></li>
+    <li>
+    <h5>Study:</h5></li>
          <ul>
              <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
              <a href="https://github.com/Leegunhee777/Study_No.8_architecture_veltio"><li>Study_No.8_architecture_veltio</li></a>
