@@ -11,25 +11,19 @@
 </div> 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegunhee777)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--
+**Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
     <li><h5>Study:</h5></li>
-       <ul>
-         <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.11_Airbnb-Next.js"><li>Project_No.11_Airbnb-Next.js</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.10_TypeScriptWebSite"><li>Project_No.10_TypeScriptWebSite</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.9_CapstoneProject"><li>Project_No.9_CapstoneProject</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.8_Youtube"><li>Project_No.8_Youtube</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.7_MapWeb"><li>Project_No.7_MapWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.6_ChatWeb"><li>Project_No.6_ChatWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.5_CustomerList"><li>Project_No.5_CustomerList</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.4_MovieWeb"><li>Project_No.4_MovieWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.3_Wetube"><li>Project_No.3_Wetube</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>     
-         <li>샘플 2</li>
-        </ul>
-        
+
     <li><h5>Sample:</h5>
         <ul>
          <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
@@ -47,13 +41,6 @@
         </ul>
     </li>
 </ul>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegunhee777)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
