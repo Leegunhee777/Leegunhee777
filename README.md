@@ -21,17 +21,7 @@
 
     <li><h5>Sample:</h5>
         <ul>
-         <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.11_Airbnb-Next.js"><li>Project_No.11_Airbnb-Next.js</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.10_TypeScriptWebSite"><li>Project_No.10_TypeScriptWebSite</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.9_CapstoneProject"><li>Project_No.9_CapstoneProject</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.8_Youtube"><li>Project_No.8_Youtube</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.7_MapWeb"><li>Project_No.7_MapWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.6_ChatWeb"><li>Project_No.6_ChatWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.5_CustomerList"><li>Project_No.5_CustomerList</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.4_MovieWeb"><li>Project_No.4_MovieWeb</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.3_Wetube"><li>Project_No.3_Wetube</li></a>
-         <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>     
+   
          <li>샘플 2</li>
         </ul>
     </li>
