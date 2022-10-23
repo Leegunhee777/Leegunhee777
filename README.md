@@ -17,9 +17,9 @@
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
-    <li><h5>Study:</h5></li>
+    <li>Study:</li>
 
-    <li><h5>Sample:</h5>
+    <li>Sample:
         <ul>
    
          <li>샘플 2</li>
