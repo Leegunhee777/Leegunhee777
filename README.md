@@ -17,8 +17,8 @@
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
-    <li>Study</li>
-    <li>Sample:
+    <li><h5>Study</h5></li>
+    <li><h5>Sample:</h5>
         <ul>
             <a href="naver.com"><li>샘플 1</li></a>
             <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
