@@ -19,19 +19,7 @@
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
-    <li><h5>Study:</h5></li>
-         <ul>
-             <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.8_architecture_veltio"><li>Study_No.8_architecture_veltio</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.7_aboutRefactoring"><li>Study_No.7_aboutRefactoring</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.6_TestCode"><li>Study_No.6_TestCode</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.5_browser"><li>Study_No.5_browser</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.4_BaseTypescript"><li>Study_No.4_BaseTypescript</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.3_Node.js"><li>Study_No.3_Node.js</li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.2_BasicCss"><li>Study_No.2_BasicCss </li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.1_BasicScript"><li>Study_No.1_BasicScript</li></a>
-        </ul>
-    <li><h5>Sample:</h5>
+     <li><h5>Project:</h5>
         <ul>
          <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
          <a href="https://github.com/Leegunhee777/Project_No.11_Airbnb-Next.js"><li>Project_No.11_Airbnb-Next.js</li></a>
@@ -46,6 +34,18 @@
          <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>  
         </ul>
     </li>
+    <li><h5>Study:</h5></li>
+         <ul>
+             <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.8_architecture_veltio"><li>Study_No.8_architecture_veltio</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.7_aboutRefactoring"><li>Study_No.7_aboutRefactoring</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.6_TestCode"><li>Study_No.6_TestCode</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.5_browser"><li>Study_No.5_browser</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.4_BaseTypescript"><li>Study_No.4_BaseTypescript</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.3_Node.js"><li>Study_No.3_Node.js</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.2_BasicCss"><li>Study_No.2_BasicCss </li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.1_BasicScript"><li>Study_No.1_BasicScript</li></a>
+        </ul>
 </ul>
 
 
