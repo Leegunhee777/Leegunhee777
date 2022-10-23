@@ -21,9 +21,15 @@
 <ul>
     <li><h5>Study:</h5></li>
          <ul>
-            <a href="naver.com"><li>샘플 1</li></a>
-            <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
-            <li>샘플 2</li>
+             <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.8_architecture_veltio"><li>Study_No.8_architecture_veltio</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.7_aboutRefactoring"><li>Study_No.7_aboutRefactoring</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.6_TestCode"><li>Study_No.6_TestCode</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.5_browser"><li>Study_No.5_browser</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.4_BaseTypescript"><li>Study_No.4_BaseTypescript</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.3_Node.js"><li>Study_No.3_Node.js</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.2_BasicCss"><li>Study_No.2_BasicCss </li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.1_BasicScript"><li>Study_No.1_BasicScript</li></a>
         </ul>
     <li><h5>Sample:</h5>
         <ul>
