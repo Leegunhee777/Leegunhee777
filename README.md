@@ -14,11 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegunhee777)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<!--
-**Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
@@ -41,6 +36,10 @@
         </ul>
     </li>
 </ul>
+
+<!--
+**Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
