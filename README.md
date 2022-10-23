@@ -17,15 +17,16 @@
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
-    <li>Study:</li>
-
+    <li>Study</li>
     <li>Sample:
         <ul>
-   
-         <li>샘플 2</li>
+            <a href="naver.com"><li>샘플 1</li></a>
+            <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
+            <li>샘플 2</li>
         </ul>
     </li>
 </ul>
+
 
 <!--
 **Leegunhee777/Leegunhee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
