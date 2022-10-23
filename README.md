@@ -1,6 +1,7 @@
-### ⭐ 어제와 같은 오늘을 살면서 다른 내일을 기대하지말자!
-👋 <h3>이름: 이건희</h3>
-<p>가나다라</p>
+### 👍 어제와 같은 오늘을 살면서 다른 내일을 기대하지말자!
+<h3>이름: 이건희</h3>
+<h3>직업: FE개발</h3>
+<h3>흥미: 가치있는 서비스를 만들어 세상을 조금씩 더 나은 방향으로 만들어가는것</h3>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
