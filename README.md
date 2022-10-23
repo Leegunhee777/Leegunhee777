@@ -1,5 +1,5 @@
-### ⭐ Hi there 
-👋<h3>이름: 이건희</h3>
+### ⭐ 어제와 같은 오늘을 살면서 다른 내일을 기대하지말자!
+👋 <h3>이름: 이건희</h3>
 <p>가나다라</p>
 
 <div>
@@ -14,11 +14,36 @@
 <br/>
 <h4>프로젝트 개요</h4>
 <ul>
-    <li>Study</li>
-    <li>Sample:
+    <li><h5>Study:</h5></li>
+       <ul>
+         <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.11_Airbnb-Next.js"><li>Project_No.11_Airbnb-Next.js</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.10_TypeScriptWebSite"><li>Project_No.10_TypeScriptWebSite</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.9_CapstoneProject"><li>Project_No.9_CapstoneProject</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.8_Youtube"><li>Project_No.8_Youtube</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.7_MapWeb"><li>Project_No.7_MapWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.6_ChatWeb"><li>Project_No.6_ChatWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.5_CustomerList"><li>Project_No.5_CustomerList</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.4_MovieWeb"><li>Project_No.4_MovieWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.3_Wetube"><li>Project_No.3_Wetube</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>     
+         <li>샘플 2</li>
+        </ul>
+        
+    <li><h5>Sample:</h5>
         <ul>
-            <a href="https://github.com/Leegunhee777/Study_No.9_Real_Node.js"><li>Study_No.9_Real_Node.js</li></a>
-            <li>샘플 2</li>
+         <a href="https://github.com/Leegunhee777/Project_No.12_Next.js-TodoList"><li>Project_No.12_Next.js-TodoList</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.11_Airbnb-Next.js"><li>Project_No.11_Airbnb-Next.js</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.10_TypeScriptWebSite"><li>Project_No.10_TypeScriptWebSite</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.9_CapstoneProject"><li>Project_No.9_CapstoneProject</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.8_Youtube"><li>Project_No.8_Youtube</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.7_MapWeb"><li>Project_No.7_MapWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.6_ChatWeb"><li>Project_No.6_ChatWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.5_CustomerList"><li>Project_No.5_CustomerList</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.4_MovieWeb"><li>Project_No.4_MovieWeb</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.3_Wetube"><li>Project_No.3_Wetube</li></a>
+         <a href="https://github.com/Leegunhee777/Project_No.1_responsibleWeb"><li>Project_No.1_responsibleWeb</li></a>     
+         <li>샘플 2</li>
         </ul>
     </li>
 </ul>
