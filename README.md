@@ -46,7 +46,7 @@
              <a href="https://github.com/Leegunhee777/Study_No.4_BaseTypescript"><li>Study_No.4_BaseTypescript</li></a>
              <a href="https://github.com/Leegunhee777/Study_No.3_Node.js"><li>Study_No.3_Node.js</li></a>
              <a href="https://github.com/Leegunhee777/Study_No.2_BasicCss"><li>Study_No.2_BasicCss </li></a>
-             <a href="https://github.com/Leegunhee777/Study_No.1_BasicScript"><li>Sample_No.1_CRABasicTypescript</li></a>
+             <a href="https://github.com/Leegunhee777/Study_No.1_BasicScript"><li>Study_No.1_BasicScript</li></a>
         </ul>
     </li>
         <li>
